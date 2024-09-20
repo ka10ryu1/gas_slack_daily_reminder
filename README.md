@@ -12,6 +12,8 @@
 # gas_slack_daily_reminder
 Googleカレンダーの当日の予定をSlackに投稿するアプリ
 
+GASの自分のプロジェクトページは [こちら](https://script.google.com/home/my) からアクセス可能
+
 ## GASのセットアップ
 
 [参考記事](https://auto-worker.com/blog/?p=2904)
