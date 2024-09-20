@@ -1,0 +1,2 @@
+# gas_slack_daily_reminder
+Googleカレンダーの当日の予定をSlackに投稿するアプリ
